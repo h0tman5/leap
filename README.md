@@ -96,7 +96,7 @@ Leap never talks to Amazfit's servers. It reads the database that [Gadgetbridge]
 2. Pair the strap with **Gadgetbridge** (you need the strap's auth key; see the Gadgetbridge docs for Zepp OS devices).
 3. In Gadgetbridge: turn on **auto-export** of the database to a folder, and turn on the **Intent API** sync and export triggers.
 4. In Leap: **Settings → Gadgetbridge folder**, choose that export folder.
-5. Wear the strap for about a week; recovery needs a baseline.
+5. Wear the strap for about a week; recovery needs a baseline. (On first open, Leap shows this setup as a checklist and ticks steps off as you go. A first habit starts right away; your own #1 lever comes after about 3 weeks.)
 
 **With another watch or ring**
 
