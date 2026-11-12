@@ -1,0 +1,50 @@
+name: Bug report
+description: Something is broken or looks wrong
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping! Please don't post health data you want to keep private; screenshots are fine if you crop them.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did you see instead?
+    validations: { required: true }
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open Today\n2. Tap ...\n3. ..."
+  - type: input
+    id: version
+    attributes:
+      label: Leap version
+      description: Settings → About, or the APK file name
+      placeholder: "0.1.0"
+    validations: { required: true }
+  - type: dropdown
+    id: source
+    attributes:
+      label: Data source
+      options:
+        - Amazfit Helio Strap via Gadgetbridge
+        - Other wearable via Health Connect
+        - Whoop export only
+        - Other
+    validations: { required: true }
+  - type: input
+    id: phone
+    attributes:
+      label: Phone and Android version
+      placeholder: "Pixel 9, Android 16"
+    validations: { required: true }
+  - type: input
+    id: gb
+    attributes:
+      label: Gadgetbridge version (if used)
+  - type: textarea
+    id: shots
+    attributes:
+      label: Screenshots
+      description: Drag images here.

@@ -1,0 +1,10 @@
+name: Idea or feature request
+description: Suggest something for Leap
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like Leap to do, and why would it help you?
+    validations: { required: true }

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup guide
+    url: https://github.com/h0tman5/leap#getting-started
+    about: Pairing the strap, Gadgetbridge export and Health Connect, step by step.
