@@ -19,26 +19,35 @@
 | 🔵 **Sleep** | what you slept vs. what you needed, sleep debt, stages, consistency |
 | 🟣 **Strain** 0–21 | minute-by-minute heart rate, plus every workout |
 
+Then it helps you **change one habit at a time**: it finds the habit that moves *your* recovery the most, turns it into a simple plan, checks it each night, and shows you the payoff on your own numbers.
+
 No account. No subscription. No cloud. Leap reads your data on your phone and keeps it there.
 
 <p align="center">
   <img src="docs/screens/today.png" width="24%" alt="Today">
+  <img src="docs/screens/focus_lever.png" width="24%" alt="Your #1 lever">
+  <img src="docs/screens/focus_active.png" width="24%" alt="Focus habit">
   <img src="docs/screens/live_now.png" width="24%" alt="Live heart rate">
-  <img src="docs/screens/calendar_black.png" width="24%" alt="Calendar">
-  <img src="docs/screens/today_calm.png" width="24%" alt="Calm mode">
 </p>
 <p align="center">
+  <img src="docs/screens/today_calm.png" width="24%" alt="Calm mode">
+  <img src="docs/screens/calendar_black.png" width="24%" alt="Calendar">
   <img src="docs/screens/trends.png" width="24%" alt="Trends">
-  <img src="docs/screens/hero_tide.png" width="24%" alt="Energy tide">
-  <img src="docs/screens/strap.png" width="24%" alt="Strap">
   <img src="docs/screens/space_white.png" width="24%" alt="Space white theme">
 </p>
 <p align="center"><sub>Screens show made-up demo data.</sub></p>
 
 ## Features
 
+**Change one habit at a time** (new in 0.2)
+- **Your #1 lever**: Leap compares your own nights and finds what lines up best with a good recovery (for example "asleep 7½ hours or more: 70% vs 58%")
+- **One if-then plan** ("When it's 9:45 PM, I head to bed"), one quiet nudge at that time, and a nightly check. The strap checks sleep habits by itself
+- **The payoff on your numbers**: recovery after the nights you did it vs the nights you didn't
+- **Weekly review**: three strong weeks and the habit "graduates"; a hard week makes the plan smaller, not you a failure. No streaks, no shame: "never miss twice"
+- **1-minute lessons**: what your most unusual number today means, what moves it, and one thing to try
+
 **Every day**
-- **Today**: three rings, a morning brief and one call for the day ("push", "steady" or "recover")
+- **Today**: three rings and one call for the day ("push", "steady" or "recover") with a strain target and a session; if Leap holds you back, it says why
 - **Pick your tiles**: choose which body numbers show (HRV, resting HR, breathing, skin temp, blood oxygen, steps, sleep debt…)
 - **Calm mode**: only your rings and one next step. Built to cut down on compulsive checking
 - **Live heart rate**: a beating bpm pill on every screen while Leap is open, and a Live page with zone, calories per minute, energy and more
@@ -59,7 +68,7 @@ No account. No subscription. No cloud. Leap reads your data on your phone and ke
 - Experiments: test one change (say, magnesium) on balanced on/off days
 - Weekly report, Trends you can scrub with a finger, Leap Age
 - **Build your own score** from 11 inputs, and check whether it means anything
-- Optional AI coach (Claude, ChatGPT or Gemini) with your own key
+- Optional AI coach (Claude, ChatGPT or Gemini) with your own key: one tap from Today, knows today's call and your focus habit
 
 **Health extras**
 - Overnight blood oxygen and finger-oximeter spot checks
