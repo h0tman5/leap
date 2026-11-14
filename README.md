@@ -28,6 +28,10 @@ No account. No subscription. No cloud. Leap reads your data on your phone and ke
 </p>
 
 <p align="center">
+  <img src="docs/screens/styles.png" width="100%" alt="Five ways to see the same day: circles, window, constellation, energy tide, ranges">
+</p>
+
+<p align="center">
   <img src="docs/screens/focus_lever.png" width="24%" alt="Your #1 lever">
   <img src="docs/screens/today_focus_morning.png" width="24%" alt="Today">
   <img src="docs/screens/patterns_ai.png" width="24%" alt="Patterns">
