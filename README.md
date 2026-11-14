@@ -24,7 +24,10 @@ Then it helps you **change one habit at a time**: it finds the habit that moves 
 No account. No subscription. No cloud. Leap reads your data on your phone and keeps it there.
 
 <p align="center">
-  <img src="docs/screens/accuracy.png" width="100%" alt="Tested on months the model never saw: average error 5.97 recovery points, 87% same zone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/accuracy_dark.png">
+    <img src="docs/screens/accuracy.png" width="100%" alt="179 days the model never saw: Leap's recovery prediction against Whoop's own score, average error 5.97 points, 87% in the same zone">
+  </picture>
 </p>
 
 <p align="center">
