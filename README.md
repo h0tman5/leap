@@ -35,16 +35,40 @@ No account. No subscription. No cloud. Leap reads your data on your phone and ke
 </p>
 
 <p align="center">
-  <img src="docs/screens/focus_lever.png" width="24%" alt="Your #1 lever">
-  <img src="docs/screens/today_focus_morning.png" width="24%" alt="Today">
-  <img src="docs/screens/patterns_ai.png" width="24%" alt="Patterns">
-  <img src="docs/screens/evening.png" width="24%" alt="Evening">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/today_focus_morning.png">
+    <img src="docs/screens_light/today_focus_morning.png" width="24%" alt="Today">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/patterns_ai.png">
+    <img src="docs/screens_light/patterns_ai.png" width="24%" alt="Patterns">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/evening.png">
+    <img src="docs/screens_light/evening.png" width="24%" alt="Evening">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/forecast.png">
+    <img src="docs/screens_light/forecast.png" width="24%" alt="Tomorrow forecast">
+  </picture>
 </p>
 <p align="center">
-  <img src="docs/screens/live_now.png" width="24%" alt="Live heart rate">
-  <img src="docs/screens/today_calm.png" width="24%" alt="Calm mode">
-  <img src="docs/screens/forecast.png" width="24%" alt="Tomorrow forecast">
-  <img src="docs/screens/space_white.png" width="24%" alt="Space white theme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/today.png">
+    <img src="docs/screens_light/today.png" width="24%" alt="Three rings">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/live_now.png">
+    <img src="docs/screens_light/live_now.png" width="24%" alt="Live heart rate">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/today_calm.png">
+    <img src="docs/screens_light/today_calm.png" width="24%" alt="Calm mode">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screens/trends.png">
+    <img src="docs/screens_light/trends.png" width="24%" alt="Trends">
+  </picture>
 </p>
 <p align="center"><sub>Screens show made-up demo data. The accuracy figures come from one real Whoop export.</sub></p>
 
