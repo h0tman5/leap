@@ -24,18 +24,22 @@ Then it helps you **change one habit at a time**: it finds the habit that moves 
 No account. No subscription. No cloud. Leap reads your data on your phone and keeps it there.
 
 <p align="center">
-  <img src="docs/screens/today.png" width="24%" alt="Today">
+  <img src="docs/screens/accuracy.png" width="100%" alt="Tested on months the model never saw: average error 5.97 recovery points, 87% same zone">
+</p>
+
+<p align="center">
   <img src="docs/screens/focus_lever.png" width="24%" alt="Your #1 lever">
-  <img src="docs/screens/focus_active.png" width="24%" alt="Focus habit">
-  <img src="docs/screens/live_now.png" width="24%" alt="Live heart rate">
+  <img src="docs/screens/today_focus_morning.png" width="24%" alt="Today">
+  <img src="docs/screens/patterns_ai.png" width="24%" alt="Patterns">
+  <img src="docs/screens/evening.png" width="24%" alt="Evening">
 </p>
 <p align="center">
+  <img src="docs/screens/live_now.png" width="24%" alt="Live heart rate">
   <img src="docs/screens/today_calm.png" width="24%" alt="Calm mode">
-  <img src="docs/screens/calendar_black.png" width="24%" alt="Calendar">
-  <img src="docs/screens/trends.png" width="24%" alt="Trends">
+  <img src="docs/screens/forecast.png" width="24%" alt="Tomorrow forecast">
   <img src="docs/screens/space_white.png" width="24%" alt="Space white theme">
 </p>
-<p align="center"><sub>Screens show made-up demo data.</sub></p>
+<p align="center"><sub>Screens show made-up demo data. The accuracy figures come from one real Whoop export.</sub></p>
 
 ## Features
 
