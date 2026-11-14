@@ -51,6 +51,8 @@ No account. No subscription. No cloud. Leap reads your data on your phone and ke
 - **Pick your tiles**: choose which body numbers show (HRV, resting HR, breathing, skin temp, blood oxygen, steps, sleep debt…)
 - **Calm mode**: only your rings and one next step. Built to cut down on compulsive checking
 - **Live heart rate**: a beating bpm pill on every screen while Leap is open, and a Live page with zone, calories per minute, energy and more
+- **Any heart-rate device**: stream from the Helio Strap, or pick any chest strap or arm band that speaks the standard Bluetooth heart-rate service. Chest straps also give beat-to-beat timing, and with one Leap shows live HRV
+- **Breathe**: paced breathing that measures how far your heart rate swings with each breath, before and after
 - Five score styles, three themes (Graphite, Space black, Space white), a home-screen widget and a story-size share card
 
 **Training**
@@ -112,7 +114,7 @@ Have a Whoop export? Import the ZIP in Settings to keep your history and persona
 - The Helio Strap's HRV reads about 15% below Whoop's; Leap corrects for it. Resting heart rate matches.
 - The strap misses some awake time and deep sleep. Leap corrects awake time and *estimates* deep sleep, labelled as an estimate.
 - Other wearables: Leap uses each device's own numbers, with no corrections, against your own normal. HRV and sleep stages differ most between brands.
-- Live HRV is not possible with the Helio Strap: it sends heart rate about once a second, without beat-to-beat timing.
+- Live HRV is not possible **with the Helio Strap**: it sends heart rate about once a second, without beat-to-beat timing. Pair a chest strap instead (Settings → Live heart rate from) and Leap reads real beat-to-beat intervals, so live HRV works.
 - The strap keeps only a few weeks of data. Sync at least every 2–3 days.
 
 ## Privacy
