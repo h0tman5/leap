@@ -143,6 +143,14 @@ Leap never talks to Amazfit's servers. It reads the database that [Gadgetbridge]
 
 Have a Whoop export? Import the ZIP in Settings to keep your history and personalise the scores.
 
+## Stay updated
+
+The easiest way to get new versions is [Obtainium](https://github.com/ImranR98/Obtainium). Add this repository: `https://github.com/h0tman5/leap`. Obtainium watches [Releases](../../releases/latest) and can install updates for you. Updates install over an earlier version and keep your data (same signing key).
+
+You can also watch the repository on GitHub (Watch, then Releases only) to get an email when a new version is published.
+
+Each release lists the SHA-256 checksum of that APK so you can check the file you downloaded.
+
 ## Accuracy, honestly
 
 - Leap's formulas were fitted on a long run of real Whoop data and checked on months the fit never saw.
@@ -160,11 +168,13 @@ Have a Whoop export? Import the ZIP in Settings to keep your history and persona
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](../../issues). Device reports (which strap or watch, what works, what doesn't) are especially welcome.
+Questions, install help, and device reports (which strap or watch, what works, what doesn't) belong in [Discussions](../../discussions).
+
+Found a bug, or have an idea? [Open an issue](../../issues/new/choose).
 
 ## Disclaimer
 
-Leap is free to download and use. The app's source code is not public. Leap is an independent project and **not a medical device**. Don't use it to diagnose or treat anything. It is not affiliated with or endorsed by WHOOP, Amazfit / Zepp Health or Gadgetbridge; those names only describe compatibility.
+Leap is free to download and use. The app's source code is not public. See [LICENSE](LICENSE) and [PRIVACY.md](PRIVACY.md). Leap is an independent project and **not a medical device**. Don't use it to diagnose or treat anything. It is not affiliated with or endorsed by WHOOP, Amazfit / Zepp Health or Gadgetbridge; those names only describe compatibility.
 
 ## Credits
 
